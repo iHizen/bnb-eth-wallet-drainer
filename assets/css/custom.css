@@ -54,7 +54,7 @@ nav {
   position: relative;
   font-weight: bold;
   font-size: 5rem !important;
-  background-color: #fbe692;
+  background-color: #000000;
   padding: 10px 20px;
   border-radius: 8px;
   min-height: 20px;
@@ -133,7 +133,7 @@ nav {
     display: flex;
     align-items: flex-start;
     position: relative;
-    background-color: #fbe692;
+    background-color: #000000;
     margin-top: 30px;
     padding: 20px;
     border-radius: 8px;
@@ -177,7 +177,7 @@ nav {
 }
 
 .daily {
-  background-color: #fbe692;
+  background-color: #000000;
   color: #fff !important;
   padding: 5px 10px;
   border-radius: 5px;
@@ -189,7 +189,7 @@ nav {
 }
 
 .apr {
-  background-color: #fbe692;
+  background-color: #000000;
   color: #fff !important;
   padding: 5px 10px;
   border-radius: 5px;
@@ -205,7 +205,7 @@ nav {
     position: relative;
     font-weight: bold;
     font-size: 5rem !important;
-    background-color: #fbe692;
+    background-color: #000000;
     padding: 10px 20px;
     border-radius: 8px;
     min-height: 20px;
@@ -582,7 +582,7 @@ h4 {
   font-size: 22px;
   font-weight: 600;
   color: #ffffff;
-  background-color: #fbe692;
+  background-color: #000000;
   border: 2px solid #000000;
   border-radius: 8px;
 }
