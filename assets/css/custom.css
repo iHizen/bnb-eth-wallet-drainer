@@ -233,12 +233,12 @@ nav {
 
 .numseeders {
     text-decoration: underline;
-    text-decoration-color: #ffffff;
+    text-decoration-color: #000000;
 }
 .tally-text{
   font-size: 3rem !important;
   font-weight: 600;
-  color: #fff;
+  color: #000;
 
 }
 
