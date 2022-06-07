@@ -54,11 +54,13 @@ nav {
   position: relative;
   font-weight: bold;
   font-size: 5rem !important;
+  background-color: #eabd43;
   padding: 10px 20px;
   border-radius: 8px;
   min-height: 20px;
   margin-top: 10px;
   margin-bottom: 40px;
+  border: 1px solid #eabd43;
 }
 
 @media (max-width: 750px){
@@ -131,6 +133,7 @@ nav {
     display: flex;
     align-items: flex-start;
     position: relative;
+    background-color: #eabd43;
     margin-top: 30px;
     padding: 20px;
     border-radius: 8px;
@@ -163,7 +166,7 @@ nav {
 }
 
 .banner h1 {
-  color: #000;
+  color: #eabd43;
 }
 
 .polybanner {
@@ -174,6 +177,7 @@ nav {
 }
 
 .daily {
+  background-color: #eabd43;
   color: #fff !important;
   padding: 5px 10px;
   border-radius: 5px;
@@ -181,9 +185,11 @@ nav {
   font-size: 16px;
   margin: 0 0 5px 0;
   line-height: 1.5;
+  border: 1px solid #eabd43;
 }
 
 .apr {
+  background-color: #eabd43;
   color: #fff !important;
   padding: 5px 10px;
   border-radius: 5px;
@@ -191,6 +197,7 @@ nav {
   font-size: 16px;
   margin: 0;
   line-height: 1.5;
+  border: 1px solid #eabd43;
 }
 
 .miners-tally-container {
@@ -198,12 +205,13 @@ nav {
     position: relative;
     font-weight: bold;
     font-size: 5rem !important;
+    background-color: #eabd43;
     padding: 10px 20px;
     border-radius: 8px;
     min-height: 20px;
     margin-top: 10px;
     margin-bottom: 40px;
-    border: 1px solid #000;
+    border: 1px solid #eabd43;
 }
 
 .miners-tally-container h1 {
@@ -460,8 +468,8 @@ h4 {
 
 .btn-hatch{
     background-color: #23b574;
-    color: #000;
-    border: 1px solid #000;
+    color: #eabd43;
+    border: 1px solid #eabd43;
     border-radius: 8px;
     width: 50%;
     margin-right: 10px;
@@ -492,8 +500,8 @@ h4 {
 
 .btn-sell{
     background-color: #23b574;
-    color: #000;
-    border: 1px solid #000;
+    color: #eabd43;
+    border: 1px solid #eabd43;
     border-radius: 8px;
     width: 50%;
     font-weight: 600;
@@ -529,7 +537,7 @@ h4 {
     color: rgb(2, 2, 2);
     background-color: #23b574;
     border-radius: 8px;
-    border-color: #000000;
+    border-color: #eabd43000;
     font-weight: 600;
     font-size: 22px !important;
     width: 100%;
@@ -574,6 +582,8 @@ h4 {
   font-size: 22px;
   font-weight: 600;
   color: #ffffff;
+  background-color: #eabd43;
+  border: 2px solid #eabd43000;
   border-radius: 8px;
 }
 
